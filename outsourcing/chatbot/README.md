@@ -1,4 +1,6 @@
 # junhoyeo.github.io
+![main picture](portfolio/main.jpg)<br>
+[junhoyeo.github.io](junhoyeo.github.io)
 
 ## used templates
 
