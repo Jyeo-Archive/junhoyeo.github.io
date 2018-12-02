@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<head>
+<title>Github Bridge</title>
+</head>
+<body>
+<script>
+var $_GET=[];
+window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi,function(a,name,value){$_GET[name]=value;})
+window.location.replace('http://github.com/JunhoYeo/' + $_GET['git']);
+</script>
+</body>
